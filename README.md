@@ -1,4 +1,4 @@
-# JAVA POO - Atividade 1
+# JAVA POO 
 
 Projeto desenvolvido em Java durante os estudos de Programação Orientada a Objetos.
 
